@@ -11,4 +11,4 @@ export default function RootLayout() {
       <Stack.Screen name="signin" />
     </Stack>
   );
-}
+};
